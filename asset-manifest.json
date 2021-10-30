@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://jajamaruforce.github.io/csb-f2flk/static/css/main.249edbc4.chunk.css",
+    "main.js": "https://jajamaruforce.github.io/csb-f2flk/static/js/main.c15b0fac.chunk.js",
+    "main.js.map": "https://jajamaruforce.github.io/csb-f2flk/static/js/main.c15b0fac.chunk.js.map",
+    "runtime-main.js": "https://jajamaruforce.github.io/csb-f2flk/static/js/runtime-main.d03cfdb7.js",
+    "runtime-main.js.map": "https://jajamaruforce.github.io/csb-f2flk/static/js/runtime-main.d03cfdb7.js.map",
+    "static/js/2.bd684f3b.chunk.js": "https://jajamaruforce.github.io/csb-f2flk/static/js/2.bd684f3b.chunk.js",
+    "static/js/2.bd684f3b.chunk.js.map": "https://jajamaruforce.github.io/csb-f2flk/static/js/2.bd684f3b.chunk.js.map",
+    "index.html": "https://jajamaruforce.github.io/csb-f2flk/index.html",
+    "static/css/main.249edbc4.chunk.css.map": "https://jajamaruforce.github.io/csb-f2flk/static/css/main.249edbc4.chunk.css.map",
+    "static/js/2.bd684f3b.chunk.js.LICENSE.txt": "https://jajamaruforce.github.io/csb-f2flk/static/js/2.bd684f3b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d03cfdb7.js",
+    "static/js/2.bd684f3b.chunk.js",
+    "static/css/main.249edbc4.chunk.css",
+    "static/js/main.c15b0fac.chunk.js"
+  ]
+}
